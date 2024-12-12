@@ -1,7 +1,7 @@
 # MacApp
 
 2024年12月12日
-
+|---|---|
 | Alfred 5 | 全局搜索 |
 | Android 文件传输 | 手机文件传输 |
 | PearCleaner | 软件删除 |
